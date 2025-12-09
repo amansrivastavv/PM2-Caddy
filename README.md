@@ -1,16 +1,3 @@
-Good content. The **idea is solid**, it just needs **structure and rhythm**, not more words.
-
-Below is a **clean, human-written, structured README** that:
-
-* still sounds like *you*
-* is easy to skim
-* works for recall during interviews
-* does **not** look “AI-ish”
-
-You can paste this directly.
-
----
-
 # Production Setup: Caddy, PM2, Node, Nginx, Linode & GitHub Actions
 
 This repo is a **plain-English explanation** of how a real production backend setup works.
